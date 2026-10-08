@@ -9,10 +9,10 @@ int main() {
 
     printf("Alunos da Etec\n"); 
     printf("------------------\n"); 
-    printf("Student id: %d\n", studentID); 
-    printf("Student age: %d\n", studentAge); 
-    printf("Student fee: %.2f\n", studentFee); 
-    printf("Student grade: %c\n", studentGrade); 
+    printf("ID do estudante: %d\n", studentID); 
+    printf("Idade do aluno: %d\n", studentAge); 
+    printf("Frequência: %.2f\n", studentFee); 
+    printf("Mensão do aluno: %c\n", studentGrade); 
 
     return 0; 
 }

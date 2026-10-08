@@ -2,7 +2,7 @@
 
 int main() {
     printf("Turma Etec DS\n");
-    printf("Data:01_10");
+    printf("Data:08_10");
     return 0;
 }
 
